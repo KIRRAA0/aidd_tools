@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>006_inValidSignUp_empty_field</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>36bbeb71-9350-436e-8d6c-00af2d493a04</testCaseGuid>
+</TestCaseEntity>

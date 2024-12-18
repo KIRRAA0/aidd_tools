@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>008_AddToCart_NoLogin</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8969ee4e-daed-4a1e-b67f-ddde7ad4708c</testCaseGuid>
+</TestCaseEntity>

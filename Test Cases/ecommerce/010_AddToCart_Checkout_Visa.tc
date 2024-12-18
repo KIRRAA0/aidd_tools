@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>010_AddToCart_Checkout_Visa</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f24d710f-1ce4-4137-b747-fbca55d58304</testCaseGuid>
+</TestCaseEntity>

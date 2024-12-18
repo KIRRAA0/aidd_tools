@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>013_CheckDiscount</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>df7a3b1e-d3a8-4f9f-831a-bf0e173572d6</testCaseGuid>
+</TestCaseEntity>
