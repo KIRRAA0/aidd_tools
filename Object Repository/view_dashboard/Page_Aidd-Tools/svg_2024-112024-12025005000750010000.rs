@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg_2024-112024-12025005000750010000</name>
+   <tag></tag>
+   <elementGuidId>bb456ef3-69d0-409f-aba7-eb5615cd884f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Revenue Over Time'])[1]/following::*[name()='svg'][1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>7f767846-69bd-464a-b7cc-beac938cf203</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>recharts-surface</value>
+      <webElementGuid>df58302b-5935-481e-888f-095f79f8fb8e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>426</value>
+      <webElementGuid>a7ebf76f-b9bd-4655-af86-b3795e108f62</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>300</value>
+      <webElementGuid>cf72095a-0e06-4f69-99e7-f300ed47c7b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 426 300</value>
+      <webElementGuid>c6def6a4-0fb3-428b-884f-fd27c028a0bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>2024-112024-12025005000750010000</value>
+      <webElementGuid>8abcd20d-ef57-419c-ae88-9112884915f6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;dark:bg-neutral-900 bg-white text-black dark:text-white&quot;]/div[@class=&quot;p-6 space-y-6&quot;]/div[@class=&quot;grid gap-6 md:grid-cols-2&quot;]/div[@class=&quot;rounded-lg bg-white text-slate-950 shadow-sm dark:border-slate-800 dark:bg-slate-950 dark:text-slate-50&quot;]/div[@class=&quot;p-6 pt-0&quot;]/div[@class=&quot;recharts-responsive-container&quot;]/div[@class=&quot;recharts-wrapper&quot;]/svg[@class=&quot;recharts-surface&quot;]</value>
+      <webElementGuid>9abf65da-9e52-44f2-ae48-e1148a51d079</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Revenue Over Time'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>5bc2f9b2-2d11-44ec-a1ee-06e3bc8b33a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Refund Amounts Over Time'])[1]/following::*[name()='svg'][2]</value>
+      <webElementGuid>f07a1dea-bfc8-4520-8d25-0fb4d65df436</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='revenue'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>cb3e1b4b-6300-4f8a-9f37-cb349fa35ab5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=':'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>01764839-d0de-42c0-abc1-39f98d17ff05</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//svg[(text() = '2024-112024-12025005000750010000' or . = '2024-112024-12025005000750010000')]</value>
+      <webElementGuid>f9169d82-9bc7-40c9-b208-6fbf6406e08e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

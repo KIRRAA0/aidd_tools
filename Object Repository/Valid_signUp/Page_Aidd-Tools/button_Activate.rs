@@ -3,7 +3,7 @@
    <description></description>
    <name>button_Activate</name>
    <tag></tag>
-   <elementGuidId>93207447-a486-430d-a1c5-7acba18493b2</elementGuidId>
+   <elementGuidId>ccaf0c24-8472-4261-aba3-42914e3c7625</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>7845fbec-8ac7-47a1-b412-197312f63166</webElementGuid>
+      <webElementGuid>9c30a4cf-a0c1-474a-b28d-1f634ebec6db</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +31,7 @@
       <name>type</name>
       <type>Main</type>
       <value>submit</value>
-      <webElementGuid>424baed4-700f-468e-80b9-a2b3bfee6749</webElementGuid>
+      <webElementGuid>9b23fc1a-51aa-4fe0-bce3-5e8801c6b90a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +39,7 @@
       <name>class</name>
       <type>Main</type>
       <value>w-full px-4 py-2 font-semibold text-white bg-blue-500 rounded-md hover:bg-blue-600 transition duration-200</value>
-      <webElementGuid>20af6867-6d76-4e42-8a25-b88207bbf61e</webElementGuid>
+      <webElementGuid>25633a3d-a139-4387-b1eb-635b219466a5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +47,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Activate</value>
-      <webElementGuid>a0a2da25-a1aa-4e3e-af7c-010209aaa1e4</webElementGuid>
+      <webElementGuid>40c40f83-3ff9-47c0-9ffe-ded5175ab834</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +55,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;dark:bg-neutral-900 bg-white text-black dark:text-white&quot;]/div[@class=&quot;flex min-h-screen flex-col items-center justify-center px-6 lg:px-8  my-3&quot;]/div[@class=&quot;fixed inset-0 z-50 flex items-center justify-center bg-gray-900 bg-opacity-50&quot;]/form[@class=&quot;relative w-full max-w-md p-6 bg-white rounded-lg shadow-lg&quot;]/button[@class=&quot;w-full px-4 py-2 font-semibold text-white bg-blue-500 rounded-md hover:bg-blue-600 transition duration-200&quot;]</value>
-      <webElementGuid>aa407efd-6626-436b-b95d-96e830eafeae</webElementGuid>
+      <webElementGuid>134a5a07-a6c2-4a1c-88e7-805d2f4331c5</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -63,7 +63,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//button[@type='submit'])[2]</value>
-      <webElementGuid>a1ed0dc0-c192-40ff-94a1-4b0887838e44</webElementGuid>
+      <webElementGuid>3047ae8a-c85f-4241-bc89-a656d2048a23</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/div[2]/div[2]/form/button[2]</value>
-      <webElementGuid>07f5d7c5-c41d-4a7d-b1ef-14571b4c1978</webElementGuid>
+      <webElementGuid>ba8bb96c-6218-480e-a714-f455e73de9ad</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Activate Your Account'])[1]/following::button[1]</value>
-      <webElementGuid>7c5c10ff-e1a3-4a21-88ca-9acd84cd1374</webElementGuid>
+      <webElementGuid>1a6ea100-5bf5-40da-9e4e-157dab71680c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,15 +87,15 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='✕'])[1]/following::button[1]</value>
-      <webElementGuid>d824a4a0-4a39-4f51-abca-962321c0522a</webElementGuid>
+      <webElementGuid>c80cb326-53e7-4de6-9c9f-f19981607c0d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Resend Code in 26s'])[1]/preceding::button[1]</value>
-      <webElementGuid>fbd0b5c5-599b-48ac-af7a-927ac6920f56</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Resend Code in 56s'])[1]/preceding::button[1]</value>
+      <webElementGuid>1f97cae8-4c5e-40f8-9dd5-6fca7d001112</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +103,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Company'])[1]/preceding::button[2]</value>
-      <webElementGuid>fc8a8109-fec0-412f-81ab-0c35c944cfc6</webElementGuid>
+      <webElementGuid>3efb2aaa-43a8-4a6a-b404-ef593aa588f9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,7 +111,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Activate']/parent::*</value>
-      <webElementGuid>b45fefd1-8a27-410c-92a9-3c66c786f747</webElementGuid>
+      <webElementGuid>b4a1b7ba-e7af-41ba-9cd2-086120c8a5e0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -119,7 +119,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//form/button[2]</value>
-      <webElementGuid>f374ef38-ae35-43a6-98e4-bfcd5adbdf78</webElementGuid>
+      <webElementGuid>e6237bd2-0b5c-46c6-b516-a66716906ce1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -127,6 +127,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'submit' and (text() = 'Activate' or . = 'Activate')]</value>
-      <webElementGuid>fd046596-b87e-4c8e-b49a-24170a220e0e</webElementGuid>
+      <webElementGuid>eb62fbfa-9996-4cf6-9653-19d3797b2b5b</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

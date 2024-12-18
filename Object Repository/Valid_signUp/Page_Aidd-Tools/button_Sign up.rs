@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>4c5ef760-a987-4e20-bf33-a120d28cdbeb</webElementGuid>
+      <webElementGuid>c790a990-706a-48b9-9fe2-609ce5a87c3c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +31,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>933a25d1-d03e-49ac-9198-f55b16895d95</webElementGuid>
+      <webElementGuid>50af1933-e52e-4a41-8f14-92a23848b998</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +39,7 @@
       <name>class</name>
       <type>Main</type>
       <value>border-b-2 pb-4 text-sm font-medium border-transparent text-muted-foreground hover:border-muted</value>
-      <webElementGuid>2325fc43-efbf-4d28-b0e4-6f4383eedeb2</webElementGuid>
+      <webElementGuid>df4e1755-f1f0-433a-b95d-581ecc0d693f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +47,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Sign up</value>
-      <webElementGuid>a1d50633-250d-4799-b920-f4543664d5fe</webElementGuid>
+      <webElementGuid>ae27b61e-243b-4b24-8ef2-52baa4655e3c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +55,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;dark:bg-neutral-900 bg-white text-black dark:text-white&quot;]/div[@class=&quot;flex min-h-screen flex-col items-center justify-center px-6 lg:px-8  my-3&quot;]/div[@class=&quot;sm:mx-auto w-full sm:max-w-md&quot;]/div[@class=&quot;px-6 pt-10 pb-12 sm:rounded-lg sm:px-10 shadow bg-background&quot;]/div[@class=&quot;space-y-6&quot;]/div[1]/nav[@class=&quot;-mb-px flex justify-center space-x-8&quot;]/button[@class=&quot;border-b-2 pb-4 text-sm font-medium border-transparent text-muted-foreground hover:border-muted&quot;]</value>
-      <webElementGuid>4f011f8e-2d26-4cbe-82fc-6f0b23f91364</webElementGuid>
+      <webElementGuid>5901255a-e119-4644-90c8-3d4dc76f3f0e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -63,7 +63,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//button[@type='button'])[3]</value>
-      <webElementGuid>9983fb0b-f064-46f0-8957-adc47ce15083</webElementGuid>
+      <webElementGuid>1b65d1a8-483c-4a9e-8cf8-5bc3363aa6e8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/div[2]/div/div/div/div/nav/button[2]</value>
-      <webElementGuid>0b7d42e1-4d3a-4d31-904a-b381ace79669</webElementGuid>
+      <webElementGuid>4f17ce63-6b30-46b4-8806-7e5fe0c49014</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign in'])[1]/following::button[1]</value>
-      <webElementGuid>17962a26-6367-42ce-8852-8bcd34c23a9b</webElementGuid>
+      <webElementGuid>787e0a65-828b-4167-bc85-26d40d150021</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Email'])[1]/preceding::button[1]</value>
-      <webElementGuid>b04ec462-7f28-4b52-aad6-826bf1cbad8d</webElementGuid>
+      <webElementGuid>45cd5953-41e9-4f12-a3cc-3f483eec7b1b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Password'])[1]/preceding::button[1]</value>
-      <webElementGuid>d6ab2afe-ffe4-415b-ac66-fff84b174f53</webElementGuid>
+      <webElementGuid>aacd7e76-a487-4e13-a098-91a22a898c7f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +103,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Sign up']/parent::*</value>
-      <webElementGuid>48690d57-de40-4d41-9ac8-f012bfb11a19</webElementGuid>
+      <webElementGuid>6d5d53ee-e73c-4120-9899-17a3f83b993f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,7 +111,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//nav/button[2]</value>
-      <webElementGuid>5691984d-a628-4b08-96da-75bebeea4496</webElementGuid>
+      <webElementGuid>cd90f14a-19e5-4164-928c-6a590a127d3c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -119,6 +119,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and (text() = 'Sign up' or . = 'Sign up')]</value>
-      <webElementGuid>aaf2c3e0-f0d0-419a-889b-3489225efd76</webElementGuid>
+      <webElementGuid>19ba618d-a02e-4f8e-b25a-10a96f882e1e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>path_Test_i am door</name>
+   <tag></tag>
+   <elementGuidId>dd007240-53f8-4eec-b10d-1072803363ba</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//path[@name = 'i am door']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>path[name=&quot;i am door&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>path</value>
+      <webElementGuid>4589b1b9-0baf-4a48-8579-2efbd7ba02a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>x</name>
+      <type>Main</type>
+      <value>76.86666666666667</value>
+      <webElementGuid>ebcedf73-e7a6-4df0-85d5-6f932b65ee99</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>y</name>
+      <type>Main</type>
+      <value>78.66666666666666</value>
+      <webElementGuid>47d24e66-7568-463c-a2f5-9d80246761b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>94</value>
+      <webElementGuid>a06784fa-78a4-4f25-bf3f-673e7f905a21</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>186.33333333333334</value>
+      <webElementGuid>6c027ccd-1060-4e05-9b22-a8d696d6a4e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>radius</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>7424de49-ed66-418f-b0e7-1d00d1a81363</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>#3b82f6</value>
+      <webElementGuid>cf31b1c1-a8f5-417a-ac9e-262b7c36858a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>i am door</value>
+      <webElementGuid>3f461af7-c30a-4769-894e-b5216fda0574</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>recharts-rectangle</value>
+      <webElementGuid>9a6c1d03-44e1-49c6-b3c5-7b058036bfd5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>d</name>
+      <type>Main</type>
+      <value>M 76.86666666666667,78.66666666666666 h 94 v 186.33333333333334 h -94 Z</value>
+      <webElementGuid>cac31045-7157-4027-9e15-4282ca19c350</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;dark:bg-neutral-900 bg-white text-black dark:text-white&quot;]/div[@class=&quot;p-6 space-y-6&quot;]/div[@class=&quot;grid gap-6 md:grid-cols-2&quot;]/div[@class=&quot;rounded-lg bg-white text-slate-950 shadow-sm dark:border-slate-800 dark:bg-slate-950 dark:text-slate-50&quot;]/div[@class=&quot;p-6 pt-0&quot;]/div[@class=&quot;recharts-responsive-container&quot;]/div[@class=&quot;recharts-wrapper&quot;]/svg[@class=&quot;recharts-surface&quot;]/g[@class=&quot;recharts-layer recharts-bar&quot;]/g[@class=&quot;recharts-layer recharts-bar-rectangles&quot;]/g[@class=&quot;recharts-layer&quot;]/g[@class=&quot;recharts-layer recharts-bar-rectangle&quot;]/path[@class=&quot;recharts-rectangle&quot;]</value>
+      <webElementGuid>e38c3a38-1455-4c23-847b-98ac03e07922</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//path[@name = 'i am door']</value>
+      <webElementGuid>32cb55ce-4c7a-403c-8109-c073d655701f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

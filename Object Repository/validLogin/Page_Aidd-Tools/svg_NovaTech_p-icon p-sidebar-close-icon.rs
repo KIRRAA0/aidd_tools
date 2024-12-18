@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg_NovaTech_p-icon p-sidebar-close-icon</name>
+   <tag></tag>
+   <elementGuidId>28c48309-4d89-422e-8faa-17fcdbb51bb0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='NovaTech'])[1]/following::*[name()='svg'][1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>svg.p-icon.p-sidebar-close-icon</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>e6798a01-261a-4183-991d-dbec376c6d27</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>14</value>
+      <webElementGuid>e8de5abc-f9c5-4775-9613-c2f893400fc7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>14</value>
+      <webElementGuid>ba5b66fa-0042-4b7f-9cfd-fc8e4d1e51e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 14 14</value>
+      <webElementGuid>c2e82e7c-888c-4a95-9374-fb758d2473f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>none</value>
+      <webElementGuid>1252387f-01c3-4a6f-a122-2a43371da1be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns</name>
+      <type>Main</type>
+      <value>http://www.w3.org/2000/svg</value>
+      <webElementGuid>de2a3282-29bb-4b1b-95f8-d25b8252ab68</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-icon p-sidebar-close-icon</value>
+      <webElementGuid>62245e94-bd6c-4741-944b-939cb3cf0f96</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>60e35627-641e-4656-a208-3ac6154eb7ba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-pc-section</name>
+      <type>Main</type>
+      <value>closeicon</value>
+      <webElementGuid>8f51436d-cced-4c5b-923d-4d741a000d92</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;dark:bg-neutral-900 bg-white&quot;]/div[@class=&quot;p-sidebar-mask p-sidebar-right p-component-overlay p-component-overlay-enter p-sidebar-visible&quot;]/div[@class=&quot;w-96 p-sidebar p-component p-ripple-disabled p-sidebar-enter-done&quot;]/div[@class=&quot;p-sidebar-header&quot;]/div[@class=&quot;p-sidebar-icons&quot;]/button[@class=&quot;p-sidebar-close p-sidebar-icon p-link&quot;]/svg[@class=&quot;p-icon p-sidebar-close-icon&quot;]</value>
+      <webElementGuid>f69c7fd1-b1b9-40eb-85a6-e585eee29c09</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='NovaTech'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>78d97341-5589-4456-833e-99767c2032ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Social Media'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>a04e20c1-5047-4dad-be0d-10d55d9e2acc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Aidd Tools'])[2]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>ed94242d-3bd3-4abe-8547-1c830ec02fb0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[1]/preceding::*[name()='svg'][2]</value>
+      <webElementGuid>13dac105-8fd7-450f-86ab-c52f6ed5389a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Select Type of MessageSupportFeedbac_c78995</name>
+   <tag></tag>
+   <elementGuidId>271ae9d5-e335-4507-9525-5739a197dc5c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/section/div/div/div/div[2]/div[3]/select</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>select.w-full.px-3.py-2.border.rounded</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>1281d10d-3c77-40d8-9b68-df6b3cd722a6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>w-full px-3 py-2 border rounded</value>
+      <webElementGuid>04d93f55-2d3a-46a5-8888-1356329af2c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select Type of MessageSupportFeedbackGeneral InquiryOther</value>
+      <webElementGuid>6c0739be-cc11-4a35-afd6-ff9aa3308890</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;dark:bg-neutral-900 bg-white text-black dark:text-white&quot;]/section[@class=&quot;w-full py-3 md:py-6 lg:py-12 flex justify-center&quot;]/div[@class=&quot;container grid items-start justify-between gap-6 px-4 md:px-6 lg:grid-cols-2 lg:gap-12&quot;]/div[@class=&quot;container px-4 md:px-6 flex&quot;]/div[@class=&quot;mx-auto max-w-2xl space-y-6 text-center&quot;]/div[@class=&quot;space-y-4 text-left&quot;]/div[@class=&quot;mb-4&quot;]/select[@class=&quot;w-full px-3 py-2 border rounded&quot;]</value>
+      <webElementGuid>f5c3caef-1653-49fd-bdab-b9975c166472</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/section/div/div/div/div[2]/div[3]/select</value>
+      <webElementGuid>a5456462-d4a2-4256-9b73-35dec637a1e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[4]/following::select[1]</value>
+      <webElementGuid>e6076a3d-9c12-433c-91a6-9b22a75660b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[5]/preceding::select[1]</value>
+      <webElementGuid>5faba8b5-68d6-4134-8f8d-6b257375254f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>de1ce60a-8d9b-4584-b626-d85623c3ac55</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[(text() = 'Select Type of MessageSupportFeedbackGeneral InquiryOther' or . = 'Select Type of MessageSupportFeedbackGeneral InquiryOther')]</value>
+      <webElementGuid>87fbf458-601b-482e-8d70-8c376cff8e5f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

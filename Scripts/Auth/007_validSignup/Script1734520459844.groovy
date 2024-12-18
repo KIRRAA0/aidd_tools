@@ -27,61 +27,27 @@ WebUI.click(findTestObject('Object Repository/Valid_signUp/Page_Aidd-Tools/butto
 
 WebUI.click(findTestObject('Object Repository/Valid_signUp/Page_Aidd-Tools/button_Sign up'))
 
-WebUI.click(findTestObject('Object Repository/Valid_signUp/Page_Aidd-Tools/input_First Name_firstname'))
+WebUI.setText(findTestObject('Object Repository/Valid_signUp/Page_Aidd-Tools/input_First Name_firstname'), 'Ali')
 
-WebUI.doubleClick(findTestObject('Object Repository/Valid_signUp/Page_Aidd-Tools/input_First Name_firstname'))
+WebUI.setText(findTestObject('Object Repository/Valid_signUp/Page_Aidd-Tools/input_Last Name_lastname'), 'Ahmed')
 
-WebUI.setText(findTestObject('Object Repository/Valid_signUp/Page_Aidd-Tools/input_First Name_firstname'), 'John')
+WebUI.setText(findTestObject('Object Repository/Valid_signUp/Page_Aidd-Tools/input_Email address_email'), 'kiraoao22@gmail.com')
 
-WebUI.setText(findTestObject('Object Repository/Valid_signUp/Page_Aidd-Tools/input_Last Name_lastname'), 'Doe')
+WebUI.setText(findTestObject('Object Repository/Valid_signUp/Page_Aidd-Tools/input_Phone Number_phone'), '01023304504')
 
-WebUI.setText(findTestObject('Object Repository/Valid_signUp/Page_Aidd-Tools/input_Email address_email'), 'name@example.com')
-
-WebUI.setEncryptedText(findTestObject('Object Repository/Valid_signUp/Page_Aidd-Tools/input_Password_password'), '/5S6MFFLcE5ZzW6QKlDupg==')
+WebUI.setEncryptedText(findTestObject('Object Repository/Valid_signUp/Page_Aidd-Tools/input_Password_password'), 'RigbBhfdqOBGNlJIWM1ClA==')
 
 WebUI.setEncryptedText(findTestObject('Object Repository/Valid_signUp/Page_Aidd-Tools/input_Confirm Password_confirm-password'), 
-    '/5S6MFFLcE5ZzW6QKlDupg==')
+    'RigbBhfdqOBGNlJIWM1ClA==')
 
 WebUI.click(findTestObject('Object Repository/Valid_signUp/Page_Aidd-Tools/input_Confirm Password_agree'))
 
 WebUI.click(findTestObject('Object Repository/Valid_signUp/Page_Aidd-Tools/button_Sign up_1'))
 
-WebUI.setText(findTestObject('Object Repository/Valid_signUp/Page_Aidd-Tools/input_Phone_form-control'), '+20 1')
+WebUI.setText(findTestObject('Object Repository/Valid_signUp/Page_Aidd-Tools/input_Activate Your Account_w-full px-4 py-_d325c2'), 
+    '123456')
 
-WebUI.setText(findTestObject('Object Repository/Valid_signUp/Page_Aidd-Tools/input_Phone_form-control_1'), '+20 11')
-
-WebUI.setText(findTestObject('Object Repository/Valid_signUp/Page_Aidd-Tools/input_Phone_form-control_1_2'), '+20 111')
-
-WebUI.setText(findTestObject('Object Repository/Valid_signUp/Page_Aidd-Tools/input_Phone_form-control_1_2_3'), '+20 111 1')
-
-WebUI.setText(findTestObject('Object Repository/Valid_signUp/Page_Aidd-Tools/input_Phone_form-control_1_2_3_4'), '+20 111 11')
-
-WebUI.setText(findTestObject('Object Repository/Valid_signUp/Page_Aidd-Tools/input_Phone_form-control_1_2_3_4_5'), '+20 111 111')
-
-WebUI.setText(findTestObject('Object Repository/Valid_signUp/Page_Aidd-Tools/input_Phone_form-control_1_2_3_4_5_6'), '+20 111 111 1')
-
-WebUI.setText(findTestObject('Object Repository/Valid_signUp/Page_Aidd-Tools/input_Phone_form-control_1_2_3_4_5_6_7'), '+20 111 111 11')
-
-WebUI.setText(findTestObject('Object Repository/Valid_signUp/Page_Aidd-Tools/input_Phone_form-control_1_2_3_4_5_6_7_8'), 
-    '+20 111 111 111')
-
-WebUI.setText(findTestObject('Object Repository/Valid_signUp/Page_Aidd-Tools/input_Phone_form-control_1_2_3_4_5_6_7_8_9'), 
-    '+20 111 111 111 1')
-
-WebUI.setText(findTestObject('Object Repository/Valid_signUp/Page_Aidd-Tools/input_Phone_form-control_1_2_3_4_5_6_7_8_9_10'), 
-    '+20 111 111 111 11')
-
-WebUI.setText(findTestObject('Object Repository/Valid_signUp/Page_Aidd-Tools/input_Phone_form-control_1_2_3_4_5_6_7_8_9_10_11'), 
-    '+20 111 111 111 111')
-
-WebUI.setText(findTestObject('Object Repository/Valid_signUp/Page_Aidd-Tools/input_Phone_form-control_1_2_3_4_5_6_7_8_9_10_11_12'), 
-    '+20 111 111 111 111 1')
-
-WebUI.click(findTestObject('Object Repository/Valid_signUp/Page_Aidd-Tools/button_Sign up_1'))
-
-WebUI.click(findTestObject('Object Repository/Valid_signUp/Page_Aidd-Tools/button_Close'))
-
-WebUI.click(findTestObject('Object Repository/Valid_signUp/Page_Aidd-Tools/button_'))
+WebUI.click(findTestObject('Object Repository/Valid_signUp/Page_Aidd-Tools/button_Activate'))
 
 WebUI.closeBrowser()
 

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_TestdasadsadsadCode sadasdas4324234dsfs_fc15aa</name>
+   <tag></tag>
+   <elementGuidId>be4263a3-4728-45c2-b17c-c551380c93c3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[2]/div[2]/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.flex.flex-col.justify-between.p-8</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>2598e2d4-aa6b-42b5-81ab-6d34e31a268d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex flex-col justify-between p-8</value>
+      <webElementGuid>dec67e21-8255-44fb-a35f-b352c497712a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>TestdasadsadsadCode: sadasdas4324234dsfsfsfdsfsdjfsofhofhdsofhosdjfdsdf234234234234234232342342342342342342323423423423423423423234s23423423423423423234234234234234234232342342342342342342323423423423423423423234fdsfsfsdkfdskfjsdfksdjfks;dfsdfsddsffsfdsfds234234234234234232342342342342342342323423423423423423423234234234234234234232345Specifications2342423432424232343234324234423423432432234234234322342342342342342323423423423423423423234234234234234234232342342342342342342323423423423423423423234Price: EGP 94.00Stock: 324234232 piece</value>
+      <webElementGuid>94fc541d-76ca-4048-a2da-5916ec976787</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;dark:bg-neutral-900 bg-white text-black dark:text-white&quot;]/div[@class=&quot;min-h-screen bg-gradient-to-br from-gray-100 via-white to-gray-50 p-6&quot;]/div[@class=&quot;max-w-5xl mx-auto grid grid-cols-1 lg:grid-cols-2 gap-10 bg-white bg-opacity-90 shadow-xl backdrop-blur-md rounded-2xl overflow-hidden&quot;]/div[@class=&quot;flex flex-col justify-between p-8&quot;]</value>
+      <webElementGuid>a555cce3-bce7-4a82-b6c9-bcb42bfd8d0c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div[2]/div[2]</value>
+      <webElementGuid>a916a4b8-1ac8-441a-b429-45dd7ce3a2a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Product Details'])[1]/following::div[3]</value>
+      <webElementGuid>90353974-6f1f-472e-a533-c5af72ac8315</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div[2]</value>
+      <webElementGuid>d47df335-7daf-4cf4-875c-9bac7d0c5ddc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'TestdasadsadsadCode: sadasdas4324234dsfsfsfdsfsdjfsofhofhdsofhosdjfdsdf234234234234234232342342342342342342323423423423423423423234s23423423423423423234234234234234234232342342342342342342323423423423423423423234fdsfsfsdkfdskfjsdfksdjfks;dfsdfsddsffsfdsfds234234234234234232342342342342342342323423423423423423423234234234234234234232345Specifications2342423432424232343234324234423423432432234234234322342342342342342323423423423423423423234234234234234234232342342342342342342323423423423423423423234Price: EGP 94.00Stock: 324234232 piece' or . = 'TestdasadsadsadCode: sadasdas4324234dsfsfsfdsfsdjfsofhofhdsofhosdjfdsdf234234234234234232342342342342342342323423423423423423423234s23423423423423423234234234234234234232342342342342342342323423423423423423423234fdsfsfsdkfdskfjsdfksdjfks;dfsdfsddsffsfdsfds234234234234234232342342342342342342323423423423423423423234234234234234234232345Specifications2342423432424232343234324234423423432432234234234322342342342342342323423423423423423423234234234234234234232342342342342342342323423423423423423423234Price: EGP 94.00Stock: 324234232 piece')]</value>
+      <webElementGuid>4d44a6dc-9078-4d06-928a-ec4f589fdb0e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

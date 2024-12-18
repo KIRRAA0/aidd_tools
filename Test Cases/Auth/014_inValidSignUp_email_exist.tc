@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>014_inValidSignUp_email_exist</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ee5e21b1-8493-44f6-8680-ea7643a6868b</testCaseGuid>
+</TestCaseEntity>

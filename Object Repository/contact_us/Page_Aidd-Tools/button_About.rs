@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_About</name>
+   <tag></tag>
+   <elementGuidId>a5cf108b-4db5-4561-bd3a-1176ad12ab90</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Logout'])[1]/following::button[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>74e2036a-c8fc-4f91-8961-eeb85a02ad3d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex items-center cursor-pointer p-3 rounded text-gray-700 hover:bg-gray-100 transition duration-150 w-full</value>
+      <webElementGuid>314fcdc1-ce9f-48e5-bbb1-4cc1e6569bd1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>About</value>
+      <webElementGuid>4638a4b0-9b25-4db7-ad7e-a6ddfc586152</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;dark:bg-neutral-900 bg-white&quot;]/div[@class=&quot;p-sidebar-mask p-sidebar-right p-component-overlay p-component-overlay-enter p-sidebar-visible&quot;]/div[@class=&quot;w-96 p-sidebar p-component p-ripple-disabled p-sidebar-enter-done&quot;]/div[@class=&quot;p-sidebar-content&quot;]/div[@class=&quot;min-h-screen flex relative lg:static&quot;]/div[@class=&quot;h-screen flex-shrink-0 absolute lg:static left top z-1 border-right-1 select-none&quot;]/div[@class=&quot;flex flex-col h-full&quot;]/div[@class=&quot;overflow-y-auto&quot;]/ul[@class=&quot;list-none p-3 m-0 border-t border-slate-300 mt-2&quot;]/button[@class=&quot;flex items-center cursor-pointer p-3 rounded text-gray-700 hover:bg-gray-100 transition duration-150 w-full&quot;]</value>
+      <webElementGuid>33998ac8-5cb7-4c68-8cce-cf3bc0b16775</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Logout'])[1]/following::button[1]</value>
+      <webElementGuid>e19fa753-151c-4976-8dd1-8c2824da3022</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Settings'])[1]/following::button[2]</value>
+      <webElementGuid>2a999d5c-b1e8-42af-90d7-283d67b4e412</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contact'])[2]/preceding::button[1]</value>
+      <webElementGuid>8ab32212-e4e9-47e6-b933-9ae6c98655b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ul[2]/button</value>
+      <webElementGuid>fc5bd93a-394d-4e20-a729-bec762efc2d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'About' or . = 'About')]</value>
+      <webElementGuid>def0c7c7-b86f-4961-a266-34644e8f0397</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

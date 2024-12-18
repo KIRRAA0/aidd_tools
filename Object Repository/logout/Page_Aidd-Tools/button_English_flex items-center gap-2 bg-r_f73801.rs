@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_English_flex items-center gap-2 bg-r_f73801</name>
+   <tag></tag>
+   <elementGuidId>70a4f974-4325-4892-bef4-6f806c6b56a4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/button[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>60842d11-a505-47e9-9dae-31fc3e38f037</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex items-center gap-2 bg-red-600 text-white p-2 md:p-3 rounded-[10px] hover:bg-red-700 transition duration-150 shadow-lg ml-4</value>
+      <webElementGuid>9dd7fd02-850a-4f27-9e00-a758c6ae4a35</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;dark:bg-neutral-900 bg-white text-black dark:text-white&quot;]/div[@class=&quot;card flex items-center justify-between p-3 border-b-2&quot;]/button[@class=&quot;flex items-center gap-2 bg-red-600 text-white p-2 md:p-3 rounded-[10px] hover:bg-red-700 transition duration-150 shadow-lg ml-4&quot;]</value>
+      <webElementGuid>0f5e76f1-b129-4e6c-ac58-574503696627</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/button[2]</value>
+      <webElementGuid>e6010712-ff4f-4c1b-a7da-a25bebb042a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CHOOSE YOUR CATEGORY'])[1]/preceding::button[4]</value>
+      <webElementGuid>6b0163a9-8906-4847-b50a-8c30fdc0cb02</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Doors'])[1]/preceding::button[4]</value>
+      <webElementGuid>89a0e563-db6f-4342-bc34-ecbf0b0f69df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]</value>
+      <webElementGuid>f186ce8c-a7c0-47b7-b7b9-8061a8a28152</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

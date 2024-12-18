@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>021_add_product</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>86328d06-0bf6-4ffa-9866-601ebc067c61</testCaseGuid>
+   <variable>
+      <defaultValue>'&quot;C:\\\\Users\\\\Ahmed-Ali\\\\Downloads\\\\MainAfter.jpg&quot;'</defaultValue>
+      <description></description>
+      <id>01a9ad1c-9cdd-41f8-a7c0-4fa655dcbe12</id>
+      <masked>true</masked>
+      <name>image</name>
+   </variable>
+</TestCaseEntity>

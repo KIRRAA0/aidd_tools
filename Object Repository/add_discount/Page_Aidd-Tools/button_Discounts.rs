@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Discounts</name>
+   <tag></tag>
+   <elementGuidId>acf9c2ac-95d4-425d-8b73-43e458f76422</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Product'])[1]/following::button[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>fd0a5d26-bfb2-44aa-8308-7cf9ae2182bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex items-center cursor-pointer p-3 rounded text-gray-700 hover:bg-gray-100 transition duration-150 w-full</value>
+      <webElementGuid>a3499611-1f73-482b-92c6-61f6990177e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Discounts</value>
+      <webElementGuid>f738f28c-b5de-4564-b2d1-c7a1d1feafb0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;dark:bg-neutral-900 bg-white&quot;]/div[@class=&quot;p-sidebar-mask p-sidebar-right p-component-overlay p-component-overlay-enter p-sidebar-visible&quot;]/div[@class=&quot;w-96 p-sidebar p-component p-ripple-disabled p-sidebar-enter-done&quot;]/div[@class=&quot;p-sidebar-content&quot;]/div[@class=&quot;min-h-screen flex relative lg:static&quot;]/div[@class=&quot;h-screen flex-shrink-0 absolute lg:static left top z-1 border-right-1 select-none&quot;]/div[@class=&quot;flex flex-col h-full&quot;]/div[@class=&quot;overflow-y-auto&quot;]/ul[@class=&quot;list-none p-3 m-0&quot;]/li[1]/ul[@class=&quot;list-none py-0 pl-3 pr-0 m-0 overflow-y-hidden transition-all duration-500 ease-in-out&quot;]/button[@class=&quot;flex items-center cursor-pointer p-3 rounded text-gray-700 hover:bg-gray-100 transition duration-150 w-full&quot;]</value>
+      <webElementGuid>f80c38f4-744f-44b8-b276-5299a78c041e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Product'])[1]/following::button[1]</value>
+      <webElementGuid>30e377db-fdb9-48de-95f7-0c949f531a9d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dashboard'])[1]/following::button[2]</value>
+      <webElementGuid>112ef428-21ee-4081-a8d7-323cc4693b35</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Promo Codes'])[1]/preceding::button[1]</value>
+      <webElementGuid>018d434c-f94d-4ca4-a4f4-f078599b4118</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/ul/button[3]</value>
+      <webElementGuid>51deb824-abea-4f21-967a-c0a25017dc3b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Discounts' or . = 'Discounts')]</value>
+      <webElementGuid>9e5b06eb-4834-4b6b-afd8-714fb4d64cbc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

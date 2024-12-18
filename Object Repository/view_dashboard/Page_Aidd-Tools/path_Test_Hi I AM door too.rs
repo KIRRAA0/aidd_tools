@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>path_Test_Hi I AM door too</name>
+   <tag></tag>
+   <elementGuidId>5a8587c1-26fd-4437-8cc3-19c993fe3915</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//path[@name = 'Hi I AM door too']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>path[name=&quot;Hi I AM door too&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>path</value>
+      <webElementGuid>c3e8cfbc-4301-4f81-a207-8135190ebe0e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>x</name>
+      <type>Main</type>
+      <value>195.53333333333336</value>
+      <webElementGuid>3143c6d4-0ae1-4d77-9c00-0c65d37f3832</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>y</name>
+      <type>Main</type>
+      <value>217.33333333333331</value>
+      <webElementGuid>51a425f2-f68a-486f-8cfc-27470a34b0af</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>94</value>
+      <webElementGuid>94261d5c-8665-4ccf-8c61-6ce1f92b4933</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>47.666666666666686</value>
+      <webElementGuid>669c547e-6870-422b-8e9b-7d4f96dee88a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>radius</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>3a277d10-fd8d-40a4-a2b6-8b285f35af28</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>#3b82f6</value>
+      <webElementGuid>bb1ae436-3ccb-4595-8d7a-fd6bd0c60d77</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>Hi I AM door too</value>
+      <webElementGuid>f29f4841-8f05-4e4a-8d65-ea61eed4928a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>recharts-rectangle</value>
+      <webElementGuid>4cf041ed-65f5-44de-a0f7-26c32a3d63f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>d</name>
+      <type>Main</type>
+      <value>M 195.53333333333336,217.33333333333331 h 94 v 47.666666666666686 h -94 Z</value>
+      <webElementGuid>045b6dde-a4af-43ea-9133-7875d75fc4a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;dark:bg-neutral-900 bg-white text-black dark:text-white&quot;]/div[@class=&quot;p-6 space-y-6&quot;]/div[@class=&quot;grid gap-6 md:grid-cols-2&quot;]/div[@class=&quot;rounded-lg bg-white text-slate-950 shadow-sm dark:border-slate-800 dark:bg-slate-950 dark:text-slate-50&quot;]/div[@class=&quot;p-6 pt-0&quot;]/div[@class=&quot;recharts-responsive-container&quot;]/div[@class=&quot;recharts-wrapper&quot;]/svg[@class=&quot;recharts-surface&quot;]/g[@class=&quot;recharts-layer recharts-bar&quot;]/g[@class=&quot;recharts-layer recharts-bar-rectangles&quot;]/g[@class=&quot;recharts-layer&quot;]/g[@class=&quot;recharts-layer recharts-bar-rectangle&quot;]/path[@class=&quot;recharts-rectangle&quot;]</value>
+      <webElementGuid>270c224d-b3d1-41eb-a005-7bf34b240a19</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//path[@name = 'Hi I AM door too']</value>
+      <webElementGuid>5834b9c6-9d63-423a-8e84-d24f5dcc7814</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

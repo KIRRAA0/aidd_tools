@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_EGP 10704.35</name>
+   <tag></tag>
+   <elementGuidId>44b437ce-c5dc-4226-85e7-85d2b79ff28a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[2]/div/div[4]/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d08a7526-38fc-4e0b-9429-89b724f27106</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-2xl font-bold text-orange-600</value>
+      <webElementGuid>50e28e4b-68d3-441d-8238-83143ceedbc7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>EGP 10704.35</value>
+      <webElementGuid>e4c29dfc-fa07-49b1-b5c3-eb09f134ebdb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;dark:bg-neutral-900 bg-white text-black dark:text-white&quot;]/div[@class=&quot;p-6 space-y-6&quot;]/div[@class=&quot;grid gap-6 md:grid-cols-2 lg:grid-cols-4&quot;]/div[@class=&quot;rounded-lg bg-white text-slate-950 shadow-sm dark:border-slate-800 dark:bg-slate-950 dark:text-slate-50&quot;]/div[@class=&quot;p-6 pt-0&quot;]/div[@class=&quot;text-2xl font-bold text-orange-600&quot;]</value>
+      <webElementGuid>3651ff3c-c460-4eb8-9915-20c2abc7f108</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div/div[4]/div[2]/div</value>
+      <webElementGuid>2c2b83c0-9985-4e53-9c61-555a052d0087</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total Orders Revenue'])[1]/following::div[2]</value>
+      <webElementGuid>549ae0e5-6615-445d-a001-cb41c00e39e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Top Categories'])[1]/preceding::div[1]</value>
+      <webElementGuid>6626add9-5796-43eb-9ba7-d36337f0e8c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='doors'])[1]/preceding::div[2]</value>
+      <webElementGuid>3d8ce5c6-a66d-4241-beb2-369a147ec1fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[4]/div[2]/div</value>
+      <webElementGuid>1ba1adcf-6532-4a89-ad60-7bb07b4ba445</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'EGP 10704.35' or . = 'EGP 10704.35')]</value>
+      <webElementGuid>0bc5e0b5-abf1-4540-8887-7eedb4ddb5b2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

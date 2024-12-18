@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Grand Total EGP 470.005Add to cart</name>
+   <tag></tag>
+   <elementGuidId>9958d676-144e-442e-9f37-bd90e312a7ab</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[2]/div[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>6b06074d-f8bd-42e0-b15c-1c6da7b74057</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mt-10 max-w-6xl mx-auto bg-gray-100 rounded-2xl shadow-md p-6 flex flex-col md:flex-row items-center justify-between gap-6</value>
+      <webElementGuid>23f7fff3-003d-4597-8458-90b25ca63eff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Grand Total: EGP 470.005Add to cart</value>
+      <webElementGuid>6dc2e0a5-6ab1-4a2e-9f4a-d7370dd621fc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;dark:bg-neutral-900 bg-white text-black dark:text-white&quot;]/div[@class=&quot;min-h-screen bg-gradient-to-br from-gray-100 via-white to-gray-50 p-6&quot;]/div[@class=&quot;mt-10 max-w-6xl mx-auto bg-gray-100 rounded-2xl shadow-md p-6 flex flex-col md:flex-row items-center justify-between gap-6&quot;]</value>
+      <webElementGuid>00ca20e8-43f9-4c4f-bc17-f18e7d887ac2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div[3]</value>
+      <webElementGuid>119d10be-a21f-4e79-b404-df8c989d52de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='EGP 94.00'])[1]/following::div[1]</value>
+      <webElementGuid>811827ff-c9ab-46b1-baa4-06b8752856a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Specifications'])[1]/following::div[3]</value>
+      <webElementGuid>009ffe1c-c1a8-4dd3-93bd-c7bd396568d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]</value>
+      <webElementGuid>c85c8f62-fe69-43e8-bb0b-1b9d3d761ab4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Grand Total: EGP 470.005Add to cart' or . = 'Grand Total: EGP 470.005Add to cart')]</value>
+      <webElementGuid>b5e177f5-10fc-4b00-958b-af1edafd82b0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

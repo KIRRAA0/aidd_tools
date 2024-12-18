@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Dashboard</name>
+   <tag></tag>
+   <elementGuidId>7522a241-7257-4efb-87e2-135aa2a72b61</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Secretary Dashboard'])[1]/following::button[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>73bac904-c4ab-482a-bbe2-da567fc364e9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex items-center cursor-pointer p-3 rounded text-gray-700 hover:bg-gray-100 transition duration-150 w-full</value>
+      <webElementGuid>6a24bc09-a21b-4348-ae96-344368e31db2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Dashboard</value>
+      <webElementGuid>b6710b82-00ec-4385-98e0-89f20b0949e2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;dark:bg-neutral-900 bg-white&quot;]/div[@class=&quot;p-sidebar-mask p-sidebar-right p-component-overlay p-component-overlay-enter p-sidebar-visible&quot;]/div[@class=&quot;w-96 p-sidebar p-component p-ripple-disabled p-sidebar-enter-done&quot;]/div[@class=&quot;p-sidebar-content&quot;]/div[@class=&quot;min-h-screen flex relative lg:static&quot;]/div[@class=&quot;h-screen flex-shrink-0 absolute lg:static left top z-1 border-right-1 select-none&quot;]/div[@class=&quot;flex flex-col h-full&quot;]/div[@class=&quot;overflow-y-auto&quot;]/ul[@class=&quot;list-none p-3 m-0&quot;]/li[1]/ul[@class=&quot;list-none py-0 pl-3 pr-0 m-0 overflow-y-hidden transition-all duration-500 ease-in-out&quot;]/button[@class=&quot;flex items-center cursor-pointer p-3 rounded text-gray-700 hover:bg-gray-100 transition duration-150 w-full&quot;]</value>
+      <webElementGuid>0dd26575-8c01-4572-9673-872ac0553ba3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Secretary Dashboard'])[1]/following::button[1]</value>
+      <webElementGuid>a7d91992-0fcd-4b84-b186-f337ab8eb6a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[1]/following::button[1]</value>
+      <webElementGuid>67308910-dfa4-4e7b-9b93-0495b411d623</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Product'])[1]/preceding::button[1]</value>
+      <webElementGuid>09c60deb-619e-46b2-9e68-99b4cfa9fc01</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/ul/button</value>
+      <webElementGuid>6b55d364-b294-4651-a0f9-f0cf2ce8d3db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Dashboard' or . = 'Dashboard')]</value>
+      <webElementGuid>19acb4ec-003e-413e-a660-a69c4729ad96</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

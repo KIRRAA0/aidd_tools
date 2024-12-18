@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_EGP 594.69</name>
+   <tag></tag>
+   <elementGuidId>45f573d2-d3e7-4ea4-ab14-6b5821717e09</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[2]/div/div[3]/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.text-2xl.font-bold.text-orange-600</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>0f79e674-308d-4767-bade-005c0e6a6237</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-2xl font-bold text-orange-600</value>
+      <webElementGuid>f40d29ef-52a9-484b-98a8-ab0c91d8407c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>EGP 594.69</value>
+      <webElementGuid>9ceda310-d03c-45d7-9cd8-350e2a758885</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;dark:bg-neutral-900 bg-white text-black dark:text-white&quot;]/div[@class=&quot;p-6 space-y-6&quot;]/div[@class=&quot;grid gap-6 md:grid-cols-2 lg:grid-cols-4&quot;]/div[@class=&quot;rounded-lg bg-white text-slate-950 shadow-sm dark:border-slate-800 dark:bg-slate-950 dark:text-slate-50&quot;]/div[@class=&quot;p-6 pt-0&quot;]/div[@class=&quot;text-2xl font-bold text-orange-600&quot;]</value>
+      <webElementGuid>bf8aace9-a9ec-4244-9c1e-da9548ee1ed8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div/div[3]/div[2]/div</value>
+      <webElementGuid>c687c987-ba4b-4fbd-871f-c5bfa01ce366</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Average Order Value'])[1]/following::div[2]</value>
+      <webElementGuid>c46277e5-e78b-4722-9909-8a837d43fd74</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total Orders'])[1]/following::div[6]</value>
+      <webElementGuid>e9c5f78d-890d-4765-9a28-b0cf2d7d66ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total Orders Revenue'])[1]/preceding::div[1]</value>
+      <webElementGuid>3cdcb533-276a-4957-b3ee-de5a6fcbf5d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='EGP']/parent::*</value>
+      <webElementGuid>3b657c4c-fa35-4b63-9efe-8e89f2901561</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[3]/div[2]/div</value>
+      <webElementGuid>742d3a0d-7e46-410c-89e8-9151784e3aac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'EGP 594.69' or . = 'EGP 594.69')]</value>
+      <webElementGuid>191397f0-a6fc-46c7-a288-db45ada16457</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -21,9 +21,7 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://aiddtools.vercel.app/')
 
-WebUI.click(findTestObject('Object Repository/validLogin/Page_Aidd-Tools/svg_Select language_lucide lucide-x h-4 w-4'))
-
-WebUI.click(findTestObject('Object Repository/validLogin/Page_Aidd-Tools/svg_English_lucide lucide-menu w-5 h-5 mdw-6 mdh-6'))
+WebUI.click(findTestObject('Object Repository/validLogin/Page_Aidd-Tools/button_English_flex items-center gap-2 bg-r_f73801'))
 
 WebUI.click(findTestObject('Object Repository/validLogin/Page_Aidd-Tools/span_Sign In'))
 
@@ -31,15 +29,11 @@ WebUI.setText(findTestObject('Object Repository/validLogin/Page_Aidd-Tools/input
 
 WebUI.setEncryptedText(findTestObject('Object Repository/validLogin/Page_Aidd-Tools/input_Password_password'), 'e/mq8m8OzwHkvDQpQXlZFA==')
 
-WebUI.click(findTestObject('Object Repository/validLogin/Page_Aidd-Tools/svg'))
+WebUI.click(findTestObject('Object Repository/validLogin/Page_Aidd-Tools/input_Password_rememberMe'))
 
 WebUI.click(findTestObject('Object Repository/validLogin/Page_Aidd-Tools/button_Sign in'))
 
-WebUI.click(findTestObject('Object Repository/validLogin/Page_Aidd-Tools/svg_Select language_lucide lucide-x h-4 w-4'))
-
-WebUI.click(findTestObject('Object Repository/validLogin/Page_Aidd-Tools/svg_English_lucide lucide-menu w-5 h-5 mdw-6 mdh-6'))
-
-WebUI.click(findTestObject('Object Repository/validLogin/Page_Aidd-Tools/a_Ali Ahmed'))
+WebUI.click(findTestObject('Object Repository/validLogin/Page_Aidd-Tools/button_English_flex items-center gap-2 bg-r_f73801'))
 
 WebUI.closeBrowser()
 

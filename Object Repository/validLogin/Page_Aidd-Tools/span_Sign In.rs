@@ -7,10 +7,11 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='Contact'])[2]/following::span[1]</value>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Categories'])[1]/following::span[1]</value>
       </entry>
       <entry>
          <key>CSS</key>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>ad170d2d-7351-4a75-bfcc-768888c47e2d</webElementGuid>
+      <webElementGuid>6d103bb0-8674-4a42-ab2f-e2430020a145</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +31,7 @@
       <name>class</name>
       <type>Main</type>
       <value>font-medium</value>
-      <webElementGuid>bedd6a8a-8bd6-4fe6-8e9f-5a7155b4be29</webElementGuid>
+      <webElementGuid>bf82b151-fca0-4701-8e8b-885581a71dd5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,31 +39,47 @@
       <name>text</name>
       <type>Main</type>
       <value>Sign In</value>
-      <webElementGuid>04ff24f1-6110-42bd-a491-d98c9701cd06</webElementGuid>
+      <webElementGuid>6f038df2-643f-4ba8-9238-87f0731369eb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>/html[1]/body[@class=&quot;dark:bg-neutral-900 bg-white&quot;]/div[@class=&quot;p-sidebar-mask p-sidebar-right p-component-overlay p-component-overlay-enter p-sidebar-visible&quot;]/div[@class=&quot;w-96 p-sidebar p-component p-ripple-disabled p-sidebar-enter-done&quot;]/div[@class=&quot;p-sidebar-content&quot;]/div[@class=&quot;min-h-screen flex relative lg:static&quot;]/div[@class=&quot;h-screen flex-shrink-0 absolute lg:static left top z-1 border-right-1 select-none&quot;]/div[@class=&quot;flex flex-col h-full&quot;]/div[@class=&quot;overflow-y-auto&quot;]/ul[@class=&quot;list-none p-3 m-0 border-t border-slate-300 mt-2&quot;]/button[@class=&quot;flex items-center cursor-pointer p-3 rounded text-gray-700 hover:bg-gray-100 transition duration-150 w-full&quot;]/span[@class=&quot;font-medium&quot;]</value>
-      <webElementGuid>7a807a06-898c-4f39-bf1f-77bb8344f25c</webElementGuid>
+      <value>/html[1]/body[@class=&quot;dark:bg-neutral-900 bg-white&quot;]/div[@class=&quot;p-sidebar-mask p-sidebar-right p-component-overlay p-component-overlay-enter p-sidebar-visible&quot;]/div[@class=&quot;w-96 p-sidebar p-component p-ripple-disabled p-sidebar-enter-done&quot;]/div[@class=&quot;p-sidebar-content&quot;]/div[@class=&quot;min-h-screen flex relative lg:static&quot;]/div[@class=&quot;h-screen flex-shrink-0 absolute lg:static left top z-1 border-right-1 select-none&quot;]/div[@class=&quot;flex flex-col h-full&quot;]/div[@class=&quot;overflow-y-auto&quot;]/ul[@class=&quot;list-none p-3 m-0&quot;]/button[@class=&quot;flex items-center cursor-pointer p-3 rounded text-gray-700 hover:bg-gray-100 transition duration-150 w-full&quot;]/span[@class=&quot;font-medium&quot;]</value>
+      <webElementGuid>e43a28a7-64e6-4728-81d6-e85163937d0c</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contact'])[2]/following::span[1]</value>
-      <webElementGuid>cc5fb2e8-92a0-476a-adbb-ea30333b322a</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Categories'])[1]/following::span[1]</value>
+      <webElementGuid>f92d1dd9-8043-4844-8af6-1f9bba049ba5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='About'])[1]/following::span[2]</value>
-      <webElementGuid>c17a8352-e815-4772-95cb-23d490392e03</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Shop'])[1]/following::span[2]</value>
+      <webElementGuid>8737237a-5d86-4f1e-af33-6f98e63290ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='About'])[1]/preceding::span[1]</value>
+      <webElementGuid>09dd4a09-afec-49bd-b538-2d17a290d48f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contact'])[2]/preceding::span[2]</value>
+      <webElementGuid>aa15026f-b8b9-49d4-ad37-5912c16b1ff9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,15 +87,15 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Sign In']/parent::*</value>
-      <webElementGuid>94547b37-b9f4-4136-b740-f29daaa9fd3b</webElementGuid>
+      <webElementGuid>5cdfc87b-f9e7-49e2-b581-4939566538f2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//ul[2]/button/span</value>
-      <webElementGuid>448c166b-8268-4720-8211-ab5d030a0b75</webElementGuid>
+      <value>//button[3]/span</value>
+      <webElementGuid>6e171d2e-c483-457b-b7bc-0728e4271370</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,6 +103,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'Sign In' or . = 'Sign In')]</value>
-      <webElementGuid>172776de-e2ee-47b3-9be5-8998905a00ec</webElementGuid>
+      <webElementGuid>5de47061-a2df-418a-be35-1e5db5efc320</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

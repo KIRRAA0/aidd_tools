@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_EGP 470.00</name>
+   <tag></tag>
+   <elementGuidId>c044300e-3dc8-4af2-8665-45730f47f919</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[2]/div[3]/div/div/p/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>17950009-7e41-4c5f-aad6-c6e69e7b006a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-[#dc2626]</value>
+      <webElementGuid>1106df3b-7d4b-4169-93b2-66fdd8b36db8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>EGP 470.00</value>
+      <webElementGuid>98c05f2b-32cb-4659-b02e-dd7a1f15a72b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;dark:bg-neutral-900 bg-white text-black dark:text-white&quot;]/div[@class=&quot;min-h-screen bg-gradient-to-br from-gray-100 via-white to-gray-50 p-6&quot;]/div[@class=&quot;mt-10 max-w-6xl mx-auto bg-gray-100 rounded-2xl shadow-md p-6 flex flex-col md:flex-row items-center justify-between gap-6&quot;]/div[1]/div[1]/p[@class=&quot;text-xl font-bold&quot;]/span[@class=&quot;text-[#dc2626]&quot;]</value>
+      <webElementGuid>ec9deb26-a05e-4c47-89db-debf25633eed</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div[3]/div/div/p/span</value>
+      <webElementGuid>c594b08e-f21f-4cba-b097-23562d856ea9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='EGP 94.00'])[1]/following::span[1]</value>
+      <webElementGuid>a4991193-950d-4c7a-8f69-236e21765ab2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Specifications'])[1]/following::span[2]</value>
+      <webElementGuid>35733be6-5edb-4842-b642-f03e09fb4ddf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add to cart'])[1]/preceding::span[2]</value>
+      <webElementGuid>7f0ca0b8-fa6b-4491-8efd-1bf570da0ff4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Company'])[1]/preceding::span[2]</value>
+      <webElementGuid>33062745-b5ac-42e7-a3c5-6443515cee54</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/p/span</value>
+      <webElementGuid>d173c4a8-16b7-4f77-a42c-56b5c5a7db0b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'EGP 470.00' or . = 'EGP 470.00')]</value>
+      <webElementGuid>f5c26f78-ae70-4980-8f89-aa9cc1477b59</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

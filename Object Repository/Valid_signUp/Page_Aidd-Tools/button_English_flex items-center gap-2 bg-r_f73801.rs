@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>24d30412-6643-487d-adfb-f723c50c64c6</webElementGuid>
+      <webElementGuid>abcff7d7-7fb8-48c2-b2f0-565fd199ec0f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>class</name>
       <type>Main</type>
       <value>flex items-center gap-2 bg-red-600 text-white p-2 md:p-3 rounded-[10px] hover:bg-red-700 transition duration-150 shadow-lg ml-4</value>
-      <webElementGuid>3263306f-ec2c-4491-a0b2-7e8d0bb4ea1a</webElementGuid>
+      <webElementGuid>225e6128-d8b7-4d38-a284-3ab6308b49a2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +39,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;dark:bg-neutral-900 bg-white text-black dark:text-white&quot;]/div[@class=&quot;card flex items-center justify-between p-3 border-b-2&quot;]/button[@class=&quot;flex items-center gap-2 bg-red-600 text-white p-2 md:p-3 rounded-[10px] hover:bg-red-700 transition duration-150 shadow-lg ml-4&quot;]</value>
-      <webElementGuid>e1a150db-94fa-474d-ae46-49480d12a144</webElementGuid>
+      <webElementGuid>bb7bc8b0-7394-48cd-bcbd-af44cebae55d</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -47,7 +47,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/div/button[2]</value>
-      <webElementGuid>5cbf0c20-ee69-45a8-8138-0f5204011650</webElementGuid>
+      <webElementGuid>737ca158-1159-4203-8d22-11cf22f2b04e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -55,7 +55,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='CHOOSE YOUR CATEGORY'])[1]/preceding::button[4]</value>
-      <webElementGuid>1cc5adff-0f62-490a-bc21-b199c1165997</webElementGuid>
+      <webElementGuid>efe75c65-a2ed-4cfe-884a-112a540658b5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Doors'])[1]/preceding::button[4]</value>
-      <webElementGuid>16b30919-ad5b-4a56-91fc-29421f58198e</webElementGuid>
+      <webElementGuid>5c65b103-3d3d-486a-85f2-4f752135c0be</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,6 +71,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//button[2]</value>
-      <webElementGuid>c0bd111c-84b2-4954-9363-97fe6ac3d132</webElementGuid>
+      <webElementGuid>54b6a39c-d98f-4c7e-a4dc-bd8731727867</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

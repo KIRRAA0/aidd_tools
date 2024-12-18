@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>025_generate_promo_code</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>650b53a9-1069-4c76-9627-ece1d06e758d</testCaseGuid>
+</TestCaseEntity>

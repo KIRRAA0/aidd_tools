@@ -3,11 +3,11 @@
    <description></description>
    <name>input_Activate Your Account_w-full px-4 py-_d325c2_1_2</name>
    <tag></tag>
-   <elementGuidId>b6f60876-e1db-48ea-884d-4989e4e46cdf</elementGuidId>
+   <elementGuidId>4cddf1c1-9814-44c2-b140-64b59a3b2c39</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//input[@value='17']</value>
+         <value>//input[@value='12']</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>281ed00a-766f-4be3-8d22-4ffcdf45efbc</webElementGuid>
+      <webElementGuid>5838fd28-d660-44c7-8925-3e81aaea34c7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +31,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>0d362f05-7e94-48c4-9666-6df41f83ec76</webElementGuid>
+      <webElementGuid>c99c3b8d-59d6-4035-8396-89bf46761d24</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,15 +39,15 @@
       <name>class</name>
       <type>Main</type>
       <value>w-full px-4 py-2 mb-4 border rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500</value>
-      <webElementGuid>37b1087d-c919-4566-a4eb-cac626223c21</webElementGuid>
+      <webElementGuid>0f2464c1-8860-45c1-bf12-e7a33a8c2ec3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>value</name>
       <type>Main</type>
-      <value>17</value>
-      <webElementGuid>c6f4aca5-89bc-4492-95e6-f23fa50f64fd</webElementGuid>
+      <value>12</value>
+      <webElementGuid>0119fba8-5d7c-4c72-baab-b4460c4ff2b0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,15 +55,15 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;dark:bg-neutral-900 bg-white text-black dark:text-white&quot;]/div[@class=&quot;flex min-h-screen flex-col items-center justify-center px-6 lg:px-8  my-3&quot;]/div[@class=&quot;fixed inset-0 z-50 flex items-center justify-center bg-gray-900 bg-opacity-50&quot;]/form[@class=&quot;relative w-full max-w-md p-6 bg-white rounded-lg shadow-lg&quot;]/input[@class=&quot;w-full px-4 py-2 mb-4 border rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500&quot;]</value>
-      <webElementGuid>a0db86cf-e071-4264-9ba8-81158b21c608</webElementGuid>
+      <webElementGuid>fdde0255-d084-4e25-97ec-3fdf35ef4d37</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@value='17']</value>
-      <webElementGuid>19e1e1aa-61c1-400c-83e5-9e58bb5a3468</webElementGuid>
+      <value>//input[@value='12']</value>
+      <webElementGuid>1c501c79-dbc9-4fd7-9fc9-12a20b688d07</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/div[2]/div[2]/form/input</value>
-      <webElementGuid>941c2d91-4483-47b4-b680-d6941e6f059e</webElementGuid>
+      <webElementGuid>8ceb07ea-387e-4b68-8994-f0f3e1042542</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/form/input</value>
-      <webElementGuid>f4323c42-6f03-4f35-a432-a8aa1ed3bf15</webElementGuid>
+      <webElementGuid>aa295739-ae02-40a3-95d5-160e7ab2cba4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,6 +87,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text']</value>
-      <webElementGuid>ebabad28-9dbb-4979-963a-98099cd499c6</webElementGuid>
+      <webElementGuid>aef99e35-406f-47c2-a1b4-08ed2f0014ca</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -3,11 +3,11 @@
    <description></description>
    <name>input_Activate Your Account_w-full px-4 py-_d325c2_1_2_3_4</name>
    <tag></tag>
-   <elementGuidId>dba7ad0e-4d62-4da7-b2fd-7ec1b561c458</elementGuidId>
+   <elementGuidId>66115a0c-412e-4569-bb0a-7bf6683ece8a</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//input[@value='1743']</value>
+         <value>//input[@value='1234']</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>5a90fb49-bda2-44ad-96b6-584eb5b1fb46</webElementGuid>
+      <webElementGuid>5e444966-a212-4203-b8d0-d432f88dc702</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +31,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>a8c8717d-7734-4066-9437-f43df144bf26</webElementGuid>
+      <webElementGuid>9d4abe65-9edc-4e24-a65e-93a3b4784abe</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,15 +39,15 @@
       <name>class</name>
       <type>Main</type>
       <value>w-full px-4 py-2 mb-4 border rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500</value>
-      <webElementGuid>40ca61f3-6390-4c9f-a583-68141f624e6c</webElementGuid>
+      <webElementGuid>a39f7a6d-02cf-4487-9709-1c6a02fb248e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>value</name>
       <type>Main</type>
-      <value>1743</value>
-      <webElementGuid>eb49d400-c452-44e3-a5ad-cf81355c58a4</webElementGuid>
+      <value>1234</value>
+      <webElementGuid>8c134d6f-0e31-4963-83d2-d89a642859c8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,15 +55,15 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;dark:bg-neutral-900 bg-white text-black dark:text-white&quot;]/div[@class=&quot;flex min-h-screen flex-col items-center justify-center px-6 lg:px-8  my-3&quot;]/div[@class=&quot;fixed inset-0 z-50 flex items-center justify-center bg-gray-900 bg-opacity-50&quot;]/form[@class=&quot;relative w-full max-w-md p-6 bg-white rounded-lg shadow-lg&quot;]/input[@class=&quot;w-full px-4 py-2 mb-4 border rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500&quot;]</value>
-      <webElementGuid>2d877f23-92a6-4c8a-8ad5-ee24e85b3739</webElementGuid>
+      <webElementGuid>6fd45ca4-8d8e-413d-842a-0478fc9f1aec</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@value='1743']</value>
-      <webElementGuid>ec8b20d2-c7ca-4d5c-8733-1bc367126f0e</webElementGuid>
+      <value>//input[@value='1234']</value>
+      <webElementGuid>dd782aef-bc1b-4a80-9859-d9be35452daa</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/div[2]/div[2]/form/input</value>
-      <webElementGuid>c4cdad9b-328e-400b-bb24-41a35bd3c16c</webElementGuid>
+      <webElementGuid>d40ba6e0-6caa-4608-90c6-dbeb59fc82ca</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/form/input</value>
-      <webElementGuid>3ae01330-2779-4717-9e1a-6e53386c39ff</webElementGuid>
+      <webElementGuid>34c2dca4-234b-483a-853d-dd7130d2bc4c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,6 +87,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text']</value>
-      <webElementGuid>e7122675-3589-4a06-bf24-fec333fc39de</webElementGuid>
+      <webElementGuid>cf7fae87-7706-4c94-911e-f3035eba38a7</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
